@@ -1,9 +1,4 @@
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Langchain Notes</title>
-</head>
-<body>
+
 
 <h1>Langchain Notes</h1>
 <p>    Langchain is a development framework designed to streamline the creation of applications powered by Large Language Models (LLMs). It provides essential building blocks to simplify the development process.</p>
