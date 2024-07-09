@@ -5,7 +5,7 @@
 <h2>    L1-Model_prompt_parser</h2>
 
 
-  <p> <h3>Prompt Templates</h3> LangChain's prompt templates facilitate the creation of instructions for LLMs. This functionality is crucial for efficiently formatting, organizing, and reusing prompts across applications.</p>
+  <p> <strong>Prompt Templates : </strong> LangChain's prompt templates facilitate the creation of instructions for LLMs. This functionality is crucial for efficiently formatting, organizing, and reusing prompts across applications.</p>
 
   <h3>Output Parsers</h3>
 
