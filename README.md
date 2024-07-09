@@ -1,4 +1,6 @@
-Lang chain notes 
+# Lang chain notes 
+  
+  
   Langchain is a developement framework to simplify the development of application powered by LLMs. It provides building blocks for many functionalities to ease the development process.
   L1-Model_prompt_parser : 
     This module deals with Prompt templates and Output parsers
