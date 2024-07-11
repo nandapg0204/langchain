@@ -17,7 +17,7 @@ Chatbots appear to have memory buffer by providing previous context as input alo
 <h2>    L3-Chains</h2>
 
 
-<p> Handling diverse queries needs multiple sequences of text processing and intergration. Langchain's chain helps for efficient stream line integration</p>
+<p> Handling diverse queries needs multiple sequences of text processing and intergration. Langchain's chains helps for efficient stream line integration</p>
 </body>
 
 </html>
