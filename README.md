@@ -21,7 +21,12 @@ Chatbots appear to have memory buffer by providing previous context as input alo
 <h2>    L4-QnA</h2>
 
 
-<p> 
+<p> Integrating LLM applications with external documents such as PDFs, Web pages  enhances their capabilities.Embedding models create vector representations of text, allowing efficient comparison and retrieval of similar content. Vector databases store these embeddings and associated text chunks.</p>
+<p> When queried, the system embeds the query, compares it to stored vectors, and retrieves relevant text for the LLM.Retrieval methods include: </p>
+<p> <strong>1.Stuff : Simple, single call, limited by context length.</strong> </p>
+<p> <strong>2.Map reduce : Parallel processing, summarizing responses, more calls required.</strong> </p>
+<p> <strong>3.Refine : Iterative building of answers, slower.</strong> </p>
+<p> <strong>4.Map rerank : Scores and ranks answers for relevance.</strong> </p>
 </body>
 
 </html>
