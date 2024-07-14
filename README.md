@@ -18,6 +18,10 @@ Chatbots appear to have memory buffer by providing previous context as input alo
 
 
 <p> Handling diverse queries needs multiple sequences of text processing and intergration. Langchain's chains helps for efficient stream line integration</p>
+<h2>    L4-QnA</h2>
+
+
+<p> 
 </body>
 
 </html>
